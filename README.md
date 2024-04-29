@@ -39,7 +39,7 @@ The result of the operation is sent back through API Gateway to the client, comp
 ### Deployment Steps
 1. **Clone the Repository:**
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/akshit2941/RestLambdaAPI.git
    ```
 
 2. **Deploy AWS Resources:**
