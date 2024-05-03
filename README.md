@@ -1,4 +1,4 @@
-# Project README
+# RestLambdaAPI
 
 ## Project Overview
 This project demonstrates the design, development, and deployment of a RESTful API using AWS's serverless technologies, including AWS Lambda, Amazon API Gateway, and Amazon DynamoDB. The API provides a scalable, secure, and efficient way to manage data with CRUD operations, leveraging the best practices of REST architecture and cloud-native technologies.
