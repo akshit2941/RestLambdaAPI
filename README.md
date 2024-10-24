@@ -13,7 +13,7 @@ The project employs a serverless architecture, utilizing the following AWS servi
 - **AWS CloudWatch:** Monitors API performance and logs Lambda execution details.
 
 ### AWS Cloud Architecture Diagram
-![AWS Cloud Architecture for RESTful API](path/to/cloud-architecture.png)
+![AWS Cloud Architecture for RESTful API](/cloud-architecture.png)
 
 
 ## How It Works
